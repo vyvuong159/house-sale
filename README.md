@@ -17,7 +17,8 @@
 - Examining relationships between variables.
 
 ## Data source
-- The data is retrieved from a real estate agency, which is an archive of sale ads for realty in St. Petersburg, Russia and the neigboring areas collected over the past few years. There are two different types of data available for every apartment for sale. The first type is a user’s input. The second type is inputted automatically based upon the map data, for example, the distance from the city center, airport, the nearest park or body of water. 
+- The data is retrieved from a real estate agency, which is an archive of sale ads for realty in St. Petersburg, Russia and the neigboring areas collected over the past few years. 
+- There are two different types of data available for every apartment for sale. The first type is a user’s input. The second type is inputted automatically based upon the map data, for example, the distance from the city center, airport, the nearest park or body of water. 
 
 ## Conclusions
 - A sale can be considered to have happened too quickly are those took less than 3 days to complete. In contrast, a sale can be considered to have happened too long are those took more than 1000 days to complete.
