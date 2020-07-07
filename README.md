@@ -9,11 +9,12 @@
 - Are there any differences in the factors influencing apartment price between the city center and the whole area?
 
 ## Tasks 
-- Identifying and imputing for missing values
-- Replacing data type
-- Identifying and dropping duplicates
-- Categorizing quantitative and qualitative data (using quantile) 
+- Identify and impute for missing values
+- Change data type
+- Identify and dropping duplicates
+- Categorize quantitative and qualitative data (using quantile) 
 - Remove rare and outlying values and describe the pattern
+- Visualize distribution pattern and relationships between variables of interest
 - Examining relationships between variables.
 
 ## Data source
